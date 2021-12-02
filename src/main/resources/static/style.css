@@ -1,0 +1,15 @@
+body {
+    margin-top: 1rem;
+    background-color: #212529;
+    color: white;
+  }
+
+  form {
+    margin-left: 2rem;
+    max-width: 15rem;
+
+  }
+
+  p{
+    margin-top: 2rem;
+  }
